@@ -29,7 +29,7 @@ const AdvertWidget = () => {
       </FlexBetween>
       <Typography color={medium} m="0.5rem 0">
         Your pathway to stunning and immaculate beauty and made sure your skin
-        is exfoliating skin and shining like light.
+        is exfoliating skin and shining like light.bright as
       </Typography>
     </WidgetWrapper>
   );
